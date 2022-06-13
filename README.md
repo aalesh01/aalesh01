@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**aalesh01/aalesh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Full Stack Web Development
 - 🌱 I’m currently learning React-JS , Node-JS
 - 💬 Ask me about JavaScript / React-JS / HTML / CSS / Node-JS / APS's
