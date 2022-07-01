@@ -53,7 +53,7 @@
 
   <div align=center>
     <a>
-      <img align="left"  width=50% src="https://github-readme-stats.vercel.app/api?username=Rajesh270712&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
+      <img align="left"  width=50% src="https://github-readme-stats.vercel.app/api?username=Aalesh01&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
     </a>
     <a>
       <img align="right" width=43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalesh01&layout=compact&theme=nightowl&text_color=ffffff" />
