@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img width="5%" src="https://media1.giphy.com/media/BofAup3ACpCE98zicU/giphy.gif?cid=790b7611e65f43f0283fb8552821985e717b0c5800800427&rid=giphy.gif&ct=g" /> I'm Aalesh Patil</h1>
+<h1 align="center">Hello![image](https://user-images.githubusercontent.com/54705395/189191291-185e3880-3450-49a9-870c-dba94aa0d5a1.png)I'm Aalesh Patil</h1>
 
 <div align="center">
   <img src ="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" border-radius="3px" width="1200px" height="400px"/>
