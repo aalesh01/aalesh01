@@ -48,6 +48,18 @@
  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" height="25px"/>
 </p>
 
+
+  ## 📊 My GitHub Data @ Hetu Labs:
+
+  <div align=center>
+    <a>
+      <img align="left"  width=50% src="https://github-readme-stats.vercel.app/api?username=Aalesh01-hetu&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
+    </a>
+  </div>
+  
+
+  <br>
+  
  
  ## 📊 My GitHub Data:
 
@@ -60,15 +72,6 @@
     </a>
   </div>
 
-  <br>
- 
-  ## 📊 My GitHub Data @ Hetu Labs:
-
-  <div align=center>
-    <a>
-      <img align="left"  width=50% src="https://github-readme-stats.vercel.app/api?username=Aalesh01-hetu&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
-    </a>
-  </div>
 
 <br><br><br><br><br><br><br>
  ## ❤️ Let's get connected:
