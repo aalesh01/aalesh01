@@ -47,7 +47,18 @@
  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="25px"/>
  <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" height="25px"/>
 </p>
-  
+
+<hr>
+
+ ## 📊 My GitHub Data @ Hetu Labs:
+ 
+  <div align=center>
+    <a>
+      <img align="left"  width=50% src="https://github-readme-stats.vercel.app/api?username=Aalesh01-hetu&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
+    </a>
+  </div>
+
+  <hr>
  
  ## 📊 My GitHub Data:
 
@@ -62,7 +73,7 @@
 
   
 
-  <br>
+  <hr>
   
 
 <br><br><br><br><br><br><br>
