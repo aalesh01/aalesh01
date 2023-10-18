@@ -64,7 +64,7 @@
  ## ❤️ Let's get connected:
 <p>
 <div align="center" >
-<a href="https://www.linkedin.com/in/aalesh01-hetu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
+<a href="https://www.linkedin.com/in/aalesh01/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> 
 
 <a href="mailto:gmail.com/aalesh111999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  height="30px"/></a>
 
